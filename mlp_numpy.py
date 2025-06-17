@@ -6,6 +6,8 @@ But in NumPy, we have to do the backward pass manually.
 import math
 import numpy as np
 
+# why git?
+
 from common import RNG, StepTimer
 
 # -----------------------------------------------------------------------------
